@@ -25,6 +25,31 @@ aj@lkn.io | @ajlkn
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
+**Time Estimate**
+Number and name of feature: Refactor the CSS
+
+Estimate of time needed to complete: 3:00
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
+
 Credits:
 
 	Demo Images:
