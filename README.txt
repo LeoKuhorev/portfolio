@@ -47,6 +47,15 @@ Finish time: 5:25
 
 Actual time needed to complete: 1:15
 
+Number and name of feature: Add functionality
+
+Estimate of time needed to complete: 2:30
+
+Start time: 6:30 PM
+
+Finish time: 9:30 PM
+
+Actual time needed to complete: 3:00
 
 
 
